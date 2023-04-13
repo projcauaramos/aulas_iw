@@ -1,0 +1,21 @@
+p{
+    color: red;
+}
+
+.um{
+    color: blue;
+    border-style: inset;
+}
+.dois{
+    color: green;
+    border-style: dashed ;
+}
+.tres{
+    color: yellow;
+    border-style: groove;
+}
+#titulo{
+    color: yellow;
+    border: 2px solid blue;
+    background-color: red;
+}
