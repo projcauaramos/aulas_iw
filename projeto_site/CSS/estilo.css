@@ -1,0 +1,18 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: darkgray;
+}
+
+.container{
+    width: 80%;
+    background-color: lightgray;
+    margin: auto;
+}
+
+footer{
+    background-color: chartreuse;
+    width: 100%;
+}
